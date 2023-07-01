@@ -1,4 +1,4 @@
-# Instructions to build the app
+# App building instructions
 ## Miniconda
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html). If you're working with Windows, you will have to install all developement tools from the [Microsoft Build Tools package](https://visualstudio.microsoft.com/visual-cpp-build-tools/). For macOS having just Miniconda will be enough.
 2. Open the ***project root directory*** and create a new conda environment with packages specified in the `requirements.yml` file (it may take a while):
