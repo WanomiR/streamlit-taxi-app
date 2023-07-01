@@ -42,7 +42,7 @@
 9.  Deactivate your conda environment and run the executable:
 	```
 	$ conda deactivate
-	$ open dist\app-0.0.1.msi
+	$ dist\app-0.0.1.msi
 	```
 
 
